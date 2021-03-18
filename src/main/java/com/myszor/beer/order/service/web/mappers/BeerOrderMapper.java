@@ -1,7 +1,7 @@
 package com.myszor.beer.order.service.web.mappers;
 
 import com.myszor.beer.order.service.domain.BeerOrder;
-import com.myszor.beer.order.service.web.model.BeerOrderDto;
+import com.myszor.brewery.model.BeerOrderDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

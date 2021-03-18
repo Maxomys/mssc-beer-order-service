@@ -1,11 +1,11 @@
 package com.myszor.beer.order.service.services;
 
 import com.myszor.beer.order.service.bootstrap.BeerOrderBootStrap;
-import com.myszor.beer.order.service.web.model.BeerOrderDto;
+import com.myszor.brewery.model.BeerOrderDto;
 import com.myszor.beer.order.service.domain.Customer;
 import com.myszor.beer.order.service.repositories.BeerOrderRepository;
 import com.myszor.beer.order.service.repositories.CustomerRepository;
-import com.myszor.beer.order.service.web.model.BeerOrderLineDto;
+import com.myszor.brewery.model.BeerOrderLineDto;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
