@@ -1,6 +1,5 @@
 package com.myszor.beer.order.service.services;
 
-
 import com.myszor.brewery.model.BeerOrderDto;
 import com.myszor.brewery.model.BeerOrderPagedList;
 import org.springframework.data.domain.Pageable;
